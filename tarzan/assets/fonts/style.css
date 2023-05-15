@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'tarzan';
+    font-display: swap;
+    src: url('tarzan/Walter.ttf');
+}
+
+@font-face {
+    font-family: 'wonderbar-webfont';
+    font-display: swap;
+    src: url('wonderbar-webfont/font.woff');
+}
